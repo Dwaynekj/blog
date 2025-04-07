@@ -17,7 +17,7 @@ I'm an machine learning engineer, [startup advisor](./services.md), and mentor t
 
 From a practical perspective, I've led engineering teams, grown teams, brought AI products to market and scaled AI products. I've also mentored hundreds of budding software engineers as they prepared for technical interviews and new careers
 
-[:material-email: Subscribe to my Newsletter](https://www.dwaynekj.dev/subscribe){ .md-button .md-button--primary }
+[:material-email: Subscribe to my Newsletter](https://newsletter.dwaynekj.dev/subscribe){ .md-button .md-button--primary }
 
 
 ## Advising Startups
@@ -51,6 +51,6 @@ I help startups interested in using AI to generate more than just pretty images.
 
     ---
 
-    Stay connected and get the latest updates by following me on [:fontawesome-brands-instagram: Instagram](https://instagram.com/dwaynekj), [:fontawesome-brands-youtube: YouTube](https://www.youtube.com/@dwaynekj), [:fontawesome-brands-x-twitter: Twitter](https://x.com/senojenyawd), and [:fontawesome-brands-github: GitHub](https://github.com/dwaynekj)
+    Stay connected and get the latest updates by following me on [:fontawesome-brands-instagram: Instagram](https://instagram.com/dwaynekj) and [:fontawesome-brands-x-twitter: Twitter](https://x.com/senojenyawd). My public porfolio is on [:fontawesome-brands-github: GitHub](https://github.com/dwaynekj)
 
 </div>

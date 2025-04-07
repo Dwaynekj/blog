@@ -24,7 +24,7 @@ This is my second go at blogging. The last time I tried, blogger.com was one of 
 
 ## "Finding my voice"
 
-  I'll still figuring out what I'll share here versus my [newsletter](https://www.dwaynekj.dev/subscribe) but I feel happy to be writing again for myself
+  I'll still figuring out what I'll share here versus my [newsletter](https://newsletter.dwaynekj.dev/subscribe) but I feel happy to be writing again for myself
 
 
 ## Thanking the Open Source Community
@@ -33,4 +33,4 @@ He doesn't know me, but thanks to [Jason Liu](https://x.com/jxnlco) for sharing 
 
 ---
 
-If you like the like content give me a follow on [Instagram](https://www.instagram.com/dwaynekj/) and [X](https://x.com/senojenyawd)
+If you like the like content give me a follow. I'm primarily on my [Newsletter](https://newsletter.dwaynekj.dev/subscribe), [Instagram](https://www.instagram.com/dwaynekj/) and [X](https://x.com/senojenyawd)

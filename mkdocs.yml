@@ -153,8 +153,12 @@ extra:
   social:
     - icon: fontawesome/solid/rss
       link: feed_rss_created.xml
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/dwaynekj
     - icon: fontawesome/brands/twitter
       link: https://x.com/senojenyawd
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/@dwaynekj
     - icon: fontawesome/brands/github
       link: https://github.com/dwaynekj
     - icon: fontawesome/brands/linkedin
