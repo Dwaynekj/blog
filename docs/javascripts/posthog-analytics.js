@@ -39,6 +39,6 @@
     }),
     (e.__SV = 1));
 })(document, window.posthog || []);
-posthog.init("phc_heGq5qRBu31jz8t3GGPYoLrLWO4AatFqwjgt7sGeT6n", {
+posthog.init("phc_H6SqnWTxAlO3TUBt9hx5hLcDxAZcx2iSSnu3rsfb3Ja", {
   api_host: "https://app.posthog.com",
 });
