@@ -4,7 +4,7 @@ site_description: >-
   AI Consulting, Multi-Modal Computer Vision and Inverse Graphics
 repo_name: blog
 repo_url: https://github.com/dwaynekj/blog/
-site_url: https://hoodwicked.co/
+site_url: https://dwaynekj.dev
 edit_uri: edit/main/docs/
 copyright: Copyright &copy; 2025 Dwayne Jones 
 theme:

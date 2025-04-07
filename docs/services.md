@@ -25,7 +25,7 @@ tags:
 
 * **Need To Grow an AI Team Fast** - I help plan and conduct interviews for ML, AI, Data, MLOPs, DevOPs, Infrastructure Engineers of varying levels
 
-[:material-email: Request a Consultation](mailto:advice@hoodwicked.co){ .md-button .md-button--primary }
+[:material-email: Request a Consultation](mailto:advice@dwaynekj.dev){ .md-button .md-button--primary }
 
 ## Select Organizations
 
@@ -49,5 +49,5 @@ tags:
 
 **Subscription:** $15,000/month - Weekly strategy sessions, unlimited support
 
-[:material-email: Contact Me](mailto:advice@hoodwicked.co){ .md-button .md-button--primary }
+[:material-email: Contact Me](mailto:advice@dwaynekj.dev){ .md-button .md-button--primary }
 [:material-calendar: Schedule a Call](https://cal.com/dwaynekj/consultation){ .md-button .md-button--secondary }
