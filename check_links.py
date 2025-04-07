@@ -1,8 +1,10 @@
 import re
 import requests
-from pathlib import Path
 import concurrent.futures
 import sys
+
+from pathlib import Path
+
 
 def extract_links_from_file(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:

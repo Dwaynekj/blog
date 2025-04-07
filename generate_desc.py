@@ -1,14 +1,16 @@
 import os
-from typing import Optional, List, Set, Literal
 import asyncio
-from openai import AsyncOpenAI
 import typer
+import instructor
+
+from pydantic import BaseModel, Field
+from typing import Optional, List, Set, Literal
+from openai import AsyncOpenAI
 from rich.console import Console
 from rich.progress import Progress
 from rich.table import Table
-from pydantic import BaseModel, Field
-import instructor
-import frontmatter
+from frontmatter import Frontmatter
+
 
 console = Console()
 client = instructor.from_openai(AsyncOpenAI())
@@ -38,13 +40,9 @@ async def generate_ai_frontmatter(
         tags: List[str]
         categories: List[
             Literal[
-                "RAG",
                 "Applied AI",
-                "Losing my Hands",
-                "Entrepreneurship",
                 "Personal Growth",
                 "Software Engineering",
-                "Writing and Communication",
             ]
         ]
 
@@ -82,9 +80,9 @@ def get_all_categories(root_dir: str) -> Set[str]:
         for file in files:
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
-                post = frontmatter.load(file_path)
-                if "categories" in post.metadata:
-                    categories.update(post.metadata["categories"])
+                post = Frontmatter.read_file(file_path)
+                if "categories" in post["attributes"]:
+                    categories.update(post["attributes"]["categories"])
     return categories
 
 
@@ -119,19 +117,19 @@ async def process_file(
         categories (List[str]): List of all available categories.
         enable_comments (bool): Whether to enable comments in the front matter.
     """
-    post = frontmatter.load(file_path)
-    title = post.metadata.get("title", os.path.basename(file_path))
+    post = Frontmatter.read_file(file_path)
+    title = post["attributes"].get("title", os.path.basename(file_path))
 
-    response = await generate_ai_frontmatter(client, title, post.content, categories)
-    post.metadata["description"] = response.description
-    post.metadata["categories"] = response.categories
-    post.metadata["tags"] = response.tags
+    response = await generate_ai_frontmatter(client, title, post["body"], categories)
+    post["attributes"]["description"] = response.description
+    post["attributes"]["categories"] = response.categories
+    post["attributes"]["tags"] = response.tags
 
     if enable_comments:
-        post.metadata["comments"] = True
+        post["attributes"]["comments"] = True
 
     with open(file_path, "w", encoding="utf-8") as file:
-        file.write(frontmatter.dumps(post))
+        file.write(Frontmatter.read(post))
 
     console.print(f"[green]Updated front matter in {file_path}[/green]")
 

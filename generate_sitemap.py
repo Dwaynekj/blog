@@ -1,12 +1,13 @@
 import os
 import asyncio
 import yaml
+import hashlib
+import typer
+
 from typing import Generator, Tuple, Dict, Optional
 from openai import AsyncOpenAI
-import typer
 from rich.console import Console
 from rich.progress import Progress
-import hashlib
 
 console = Console()
 
