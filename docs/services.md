@@ -37,7 +37,7 @@ tags:
 | [Hypothetic](https://www.hypothetic.art/)                                | Video Game Design        |
 | [Fable Motion (Defunct)](https://www.linkedin.com/company/fablemotion)   | Motion Graphics          |
 | [Overjet](https://overjet.ai)                                            | Dental                   |
-| [MIT Media Lab](https://railstate.com)                                   | Shipping and Logistics   |
+| [Railstate](https://railstate.com)                                   | Shipping and Logistics   |
 | [BioRender](https://biorender.com/)                                      | Scientific Media         |
 | [Impart](https://impart.security/)                                       | Security                 |
 | [IOTNation](https://www.iotnation.com/)                                  | Internet of Things       |
