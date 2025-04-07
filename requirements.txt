@@ -1,5 +1,6 @@
 openai~=1.70.0
 rich~=13.9.4
 instructor~=1.7.9
-frontmatter~=3.0.8
+python-frontmatter~=1.1.0
+# frontmatter~=3.0.8
 typer~=0.15.2

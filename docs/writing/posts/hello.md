@@ -2,14 +2,19 @@
 authors:
 - dwaynekj
 categories:
-- Hello 
+- Personal Growth
 comments: true
 date: 2025-04-06
-description: 
+description: Join my blogging journey as a millennial, exploring personal thoughts,
+  appreciation for open source, and finding my unique voice.
 draft: false
 slug: hello-world
 tags:
-- personal growth
+- Blogging
+- Personal Growth
+- Open Source
+- Millennial
+- Writing
 ---
 
 # 👋🏾

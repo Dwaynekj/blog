@@ -1,5 +1,14 @@
 ---
-description: Explore opensource AI, Multimodal Computer Vision and Inverse Graphics techniques, and career advice from a machine learning expert.
+categories:
+- Applied AI
+description: Explore insights on AI applications, tech careers, and startup advisory
+  by a seasoned machine learning engineer and mentor.
+tags:
+- Machine Learning
+- AI Consulting
+- Tech Careers
+- Startup Advisory
+- Multimodal Computer Vision
 ---
 
 # You Made it!

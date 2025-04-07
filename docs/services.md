@@ -1,5 +1,14 @@
 ---
-description: AI consulting for startups. In the words of an old employer "Move Fast, Break Nothing" 
+categories:
+- Consulting
+description: AI consulting for engineering leaders specializing in multimedia use
+  cases, team building, and AI performance evaluation.
+tags:
+- AI Consulting
+- Engineering Leaders
+- Multimedia AI
+- Performance Evaluation
+- Team Building
 ---
 
 # AI Consulting for Engineering Leaders

@@ -2,15 +2,19 @@
 authors:
 - dwaynekj
 categories:
-- Personal Growth
+- Software Engineering
 comments: true
 date: 2025-04-06
-description: 
+description: Exploring the challenges of the 2025 job market for entry-level software
+  engineers amidst AI disruptions and post-COVID realities.
 draft: false
 slug: advice-to-youth
 tags:
-- advice
-- personal growth
+- job market
+- software engineering
+- AI disruption
+- career advice
+- COVID impact
 ---
 
 # This Job Market is Tough!

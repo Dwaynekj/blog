@@ -1,17 +1,15 @@
 ---
 categories:
-- Entrepreneurship
+- Applied AI
 comments: false
-description: Explore insights on open source, navigating a software career and AI applications for Multimodal and Graphics applications through personal stories and expert tips.
+description: Explore writings on software, AI, and personal journeys by a machine
+  learning engineer embracing iterative content creation.
 tags:
+- machine learning
 - AI
-- software
-- open source
-- writing
-- Multimodal Computer Vision
-- Inverse Graphics
-- consulting
-
+- software engineering
+- personal growth
+- blogging
 ---
 
 # Writings 

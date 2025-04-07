@@ -124,9 +124,9 @@ nav:
     - "writing/index.md"
 plugins:
   - social
-  - rss:
-      match_path: "writing/posts/.*"
-      skip_ci_warning: true
+  # - rss:
+  #     match_path: "writing/posts/.*"
+  #     skip_ci_warning: true
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:

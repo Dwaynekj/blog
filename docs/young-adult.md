@@ -1,5 +1,14 @@
 ---
-description: Learn more about me through my favorite books I read growing up and trying to find myself. Also a reminder to self that I need read so much more than technical papers, blogs and books. I haven't sat down and read a casual book in a while
+categories:
+- Personal Growth
+description: Explore diverse book recommendations for young adults, combining fiction
+  and non-fiction that inspire growth and insight.
+tags:
+- young adult
+- book recommendations
+- personal growth
+- fiction
+- non-fiction
 ---
 
 # Encounters with a Younger Self
@@ -40,4 +49,4 @@ description: Learn more about me through my favorite books I read growing up and
 - The Mercy of Gods by James A.S. Corey
 - Inside the Pentagon's Imminent Hunt for UFOs
 - Atomic Habits
-- The Wheel of Time Series 
+- The Wheel of Time Series
